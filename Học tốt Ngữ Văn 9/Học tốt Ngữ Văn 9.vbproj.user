@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Quang\Desktop\sáng tạo trẻ\Mã nguồn\Học tốt Ngữ Văn 9\My Project\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="at.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="atTL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="atVM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="atVM1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="atVM2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="bl.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="btvtdxkk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cetk.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ch.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cln.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cnx.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="dtdc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form3.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form4.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hk1tho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="hk2tho.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kolnb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kolnbTL.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kolnbVM.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kolnbVM1.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="kolnbVM2.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="lang5.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="llsp.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ltvgn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="mxnn.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="nvc.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="st.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="tkbabo.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="vlb.vb">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

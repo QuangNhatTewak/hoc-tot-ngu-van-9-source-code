@@ -1,0 +1,107 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Đêm khuya lặng lẽ như tờ,
+Nghinh ngang[1] sao mọc mịt mờ sương bay.
+Trịnh Hâm khi ấy ra tay,
+Vân Tiên bị ngã xô ngay xuống vời[2].
+Trịnh Hâm giả tiếng kêu trời,
+Cho người thức dậy lấy lời phui pha[3].
+Trong thuyền ai nấy kêu la,
+Đều thương họ Lục xót xa tấm lòng.
+Vân Tiên mình luỵ[4] giữa dòng,
+Giao long[5] dìu đỡ vào trong bãi rày.
+Vừa may trời đã sáng ngày,
+Ông chài xem thấy vớt ngay lên bờ.
+Hối con vầy lửa[6] một giờ,
+Ông hơ bụng dạ, mụ hơ mặt mày.
+Vân Tiên vừa ấm chơn tay,
+Ngẩn ngơ hồn phách như say mới rồi.
+Ngỡ thân mình phải nước trôi,
+Hay đâu còn hãy đặng ngồi dương gian.
+Ngư ông khi ấy hỏi han,
+Vân Tiên thưa hết mọi đàng gần xa.
+Ngư rằng: “Người ở cùng ta,
+Hôm mai hẩm hút[7] với già cho vui”.
+Tiên rằng: “Ông lấy chi nuôi,
+Thân tôi như thể trái mùi[8] trên cây.
+Nay đà trôi nổi đến đây,
+Không chi báo đáp mình này trơ trơ”.
+Ngư rằng: “Lòng lão chẳng mơ,
+Dốc lòng nhơn nghĩa há chờ trả ơn?
+Nước trong rửa ruột sạch trơn,
+Một câu danh lợi chi sờn lòng đây.
+Rày voi mai vịnh vui vầy,
+Ngày kia hứng gió đêm này chơi trăng.
+Một mình thong thả làm ăn,
+Khoẻ quơ chài kéo, mệt quăng câu dầm.</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Nghêu ngao nay chích[9] mai đầm,
+
+ 
+Một bầu trời đất vui thầm ai hay.
+Kinh luân[10] đã sẵn trong tay,
+Thung dung dưới thế vui say trong trời.
+Thuyền nan một chiếc ở đời,
+Tắm mưa chải gió[11] trong vời Hàn Giang”
+</value>
+  </data>
+</root>

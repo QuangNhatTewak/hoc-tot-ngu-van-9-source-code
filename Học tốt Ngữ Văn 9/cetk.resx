@@ -1,0 +1,92 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Đầu lòng hai ả tố nga,
+Thúy Kiều là chị, em là Thúy Vân.
+Mai cốt cách, tuyết tinh thần,
+Mỗi người một vẻ, mười phân vẹn mười.
+Vân xem trang trọng khác vời,
+Khuôn trăng đầy đặn, nét ngài nở nang.
+Hoa cười ngọc thốt đoan trang,
+Mây thua nước tóc, tuyết nhường màu da.
+Kiều càng sắc sảo, mặn mà,
+So bề tài, sắc, lại là phần hơn.
+Làn thu thủy, nét xuân sơn,
+Hoa ghen thua thắm, liễu hờn kém xanh.
+Một hai nghiêng nước nghiêng thành,
+Sắc đành đòi một, tài đành họa hai.
+Thông minh vốn sẵn tính trời,
+Pha nghề thi họa, đủ mùi ca ngâm.
+Cung thương làu bậc ngũ âm,
+Nghề riêng ăn đứt hồ cầm một trương.
+Khúc nhà tay lựa nên chương,
+Một thiên Bạc mệnh, lại càng não nhân.
+Phong lưu rất mực hồng quần,
+Xuân xanh xấp xỉ tới tuần cập kê
+Êm đềm trướng rủ màn che,
+Tường đông ong bướm đi về mặc ai.</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>Nội dung: đoạn trích khắc họa rõ nét chân dung của hai chị em Thúy Kiều, Thúy Vân. Đó là một vẻ đẹp chuẩn mực
+, lí tưởng của phụ nữ phong kiến.Ca ngợi vẻ đẹp, tài năng của con người đồng thời là những dự cảm về vẻ đẹp, 
+tài năng của con người và dự cảm về kiếp người tài hoa, bạc mệnh là biểu hiện của cảm hứng nhân văn ở Nguyễn Du.
+</value>
+  </data>
+</root>

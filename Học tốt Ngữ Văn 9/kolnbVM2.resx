@@ -1,0 +1,105 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>Nguyễn Du là một thiên tài văn học, một tác gia văn học tài hoa và lỗi lạc của văn học Việt Nam. Ông được mệnh danh là thi sĩ của các nhà thi sĩ. Truyện Kiều là một tác phẩm lớn nhất của Nguyễn Du là đỉnh cao chói lọi nhất của nghệ thuật thi ca. Đọc tác phẩm, chúng ta không thể quên được đoạn trích "Kiều ở lầu Ngưng Bích".
+
+Sau bao biến cố khủng khiếp: tai bay vạ gió, cha và em bị tù tội, gia sản bị cướp hết, Kiều phải hi sinh chữ tình để báo hiếu với cha mẹ. Bị Mã giám Sinh lừa gạt bán vào lầu xanh của Tú Bà, Kiều tự tử nhưng không chết. Tú Bà dỗ dành Kiều ra ở lầu Ngưng Bích để kén chồng nhưng thật chất đó là cuộc giam lỏng, chờ cơ hội mụ sẽ bắt Kiều trở lại lầu xanh.
+
+Lầu Ngưng Bích chơi vơi giữa biển khơi là điểm dừng chân đầu tiên trên con đường lưu lạc đầy cay đắng và tủi nhục của Thúy Kiều. Đoạn trích "Kiều ở lầu Ngưng Bích" là nỗi cô đơn buồn tủi, niềm nhớ thương da diết về quê hương gia đình và người thân của Kiều. Đó cũng là thể hiện tấm lòng thủy chung hiếu thảo của nàng.
+
+Trước hết với sáu câu thơ mở đầu của đoạn trích, là không gian nghệ thuật chứa đầy tâm trạng của Kiều. Trước mặt, là biển khơi từ trên lầu cao nàng cảm nhận được một không gian mênh mông rợn ngợp. Xa xa là dãy núi, hai bên bờ là cồn cát bụi mù bay. Chỉ có lầu Ngưng Bích đang giảm lòng một thân phận mỏng manh đơn côi. Đó là một không gian hoàn toàn khép kín. Một mình đối diện với "mây sớm đèn khuya". Khiến Kiều đau khổ đến tủi nhục bẽ bàng cho cái kiếp vô duyên lạc loài của mình:
+
+"Bẽ bàng mây sớm đèn khuya
+Nửa tình nửa cảnh như chia tấm lòng"
+
+Không gian đã vậy thời gian cũng hoàn toàn khép kín khiến Kiều buồn tủi, lủi thủi một mình cô đơn đến tuyệt đối.
+
+Đến với tám câu thơ tiếp theo là tâm trạng nhớ thương da diết của Kiều về gia đình và người thân. Trước hết, Nguyễn Du để cho Kiều nhớ Kim Trọng (điều này khác hẳn với Thanh Tâm tài nhân). Nàng đã từng uống rượu ăn thề cùng Kim Trọng dưới ánh trăng nhưng rồi đã phải xót xa trao mối tình ngọt ngào ấy cho Thúy Vân.
+
+Trên đường về Lâm Tri theo Mã giám Sinh nàng vẫn thương cho Kim Trọng trong cô đơn buồn tủi: "Một trời thu để riêng ai một người". Giờ đây trong lúc mà thời gian cứ trôi đi Kiều nhớ Kim Trọng là tưởng nhớ tới lời thề đôi lứa:
+
+"Tưởng người dưới nguyệt chén đồng
+Tin sương luống những rày trông mai chờ
+Bên trời góc bể bơ vơ
+Tấm son gột rửa bao giờ cho phai."
+
+Những lời thề nguyền đâu còn nữa, cái cây cầu trần thế mà Kiều và Kim Trọng phải bước qua thật là éo le. Nàng tưởng tượng cái cảnh Kim Trọng đang hướng về mình, đêm ngày đau đáu chờ tin mà uổng công vô ích "Tin sương luống những rày trông mai chờ". Trong nỗi nhớ ấy người đọc nhận ra một tâm trạng xót xa đau đớn. Nàng tự hứa "Tấm son gột rửa bao giờ cho phai". Đó là tấm lòng thủy chung son sắt thề non ước biển của kẻ chung tình. Tiếp đó, là Kiều nhớ tới cha mẹ. Nghĩ tới song thân Kiều vô cùng thương xót:
+
+"Xót người tựa cửa hôm mai
+Quạt nồng ấp lạnh những ai đó giờ?
+Sân Lai cách mấy nắng mưa,
+Có khi gốc tử đã vừa người ôm"
+
+Nàng nghĩ tới cái cảnh cha mẹ ngồi tựa cửa ngóng con lúc sáng sớm hay buổi chiều tà. Vậy mà vẫn bặt vô âm tín. Nàng xót xa lúc cha mẹ già yếu không có ai chăm sóc phụng dưỡng chăm nom. Tâm trạng nhớ thương vời vợi cùng với nỗi xót xa thể hiện sâu sắc tấm lòng hiếu thảo của nàng. Rất nhiều từ ngữ lấy từ điển cố cùng với từ ngữ dân gian vừa nói được thời gian xa cách, vừa nói đến sự tàn phai khốc liệt của thiên nhiên đối với con người.
+
+Ngôn ngữ độc thoại nội tâm, phong cách cổ điển hài hòa với phong cách dân tộc tạo nên những vần thơ biểu cảm thể hiện một tâm trạng bi kịch, một cảnh ngộ đầy bi kịch của Kiều. Trong cảnh bình rơi trâm gãy Kiều là người đáng thương nhất nhưng nàng không nghĩ đến mình mà vẫn nhớ thương cha mẹ và người thân. Kiều thực sự là người tình thủy chung một người con hiếu thảo có tấm lòng vị tha đáng trân trọng. Tám câu cuối, là cảnh xế chiều cảnh vật dễ làm cho con người buồn thương da diết:
+
+"Buồn trông cửa biển chiều hôm
+Thuyền ai thấp thoáng cánh buồm xa xa
+Buồn trông ngọn nước mới sa
+Hoa trôi man mác biết là về đâu
+Buồn trông nội cỏ dầu dầu
+Chân mây mặt đất một màu xanh xanh
+Buồn trông gió cuốn mặt duềnh
+Ầm ầm tiếng sóng kêu quanh ghế ngồi"
+
+Mỗi biểu hiện của cảnh vật bên bờ biển lúc này đều thể hiện một tâm trạng và một cảnh ngộ đáng thương. Nhìn cánh buồm thấp thoáng giữa biển khơi rồi dần dần khuất bóng "càng trông" lại càng thấy buồn, nàng liên tưởng tới cuộc đời nho nhỏ bơ vơ trơ trọi trên đất khách. Nhìn những cánh hoa tàn nát trôi giữa dòng nước lũ. Nàng tự hỏi rồi nó sẽ trôi về đâu về phương trời nào mà hoàn toàn vô định.</value>
+  </data>
+</root>

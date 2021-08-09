@@ -1,0 +1,90 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Con ở miền Nam ra thăm lăng Bác
+Đã thấy trong sương hàng tre bát ngát
+Ôi! Hàng tre xanh xanh Việt Nam
+Bão táp mưa sa, đứng thẳng hàng.
+
+Ngày ngày mặt trời đi qua trên lăng
+Thấy một mặt trời trong lăng rất đỏ
+Ngày ngày dòng người đi trong thương nhớ
+Kết tràng hoa dâng bảy mươi chín mùa xuân...
+
+Bác nằm trong giấc ngủ bình yên
+Giữa một vầng trăng sáng dịu hiền
+Vẫn biết trời xanh là mãi mãi
+Mà sao nghe nhói ở trong tim.
+
+Mai về miền Nam thương trào nước mắt
+Muốn làm con chim hót quanh lăng Bác
+Muốn làm đoá hoa toả hương đâu đây
+Muốn làm cây tre trung hiếu chốn này...
+</value>
+  </data>
+  <data name="Label3.Text" xml:space="preserve">
+    <value>Giá trị nội dung
+Bài thơ Viếng lăng Bác thể hiện lòng thành kính và niềm xúc động sâu sắc của nhà thơ và của mọi người đối với Bác Hồ khi vào lăng viếng Bác. 
+2. Giá trị nghệ thuật
+Thể thơ bảy chữ
+Giọng điệu thơ trang trọng tha thiết
+Nhiều hình ảnh thơ đẹp lãng mạn gợi nhiều xúc cảm</value>
+  </data>
+</root>

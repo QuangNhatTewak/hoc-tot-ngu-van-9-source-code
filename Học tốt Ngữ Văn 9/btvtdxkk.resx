@@ -1,0 +1,111 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label1.Text" xml:space="preserve">
+    <value>Không có kính không phải vì xe không có kính
+Bom giật, bom rung kính vỡ đi rồi
+Ung dung buồng lái ta ngồi,
+Nhìn đất, nhìn trời, nhìn thẳng.
+
+Nhìn thấy gió vào xoa mắt đắng
+Nhìn thấy con đường chạy thẳng vào tim
+Thấy sao trời và đột ngột cánh chim
+Như sa, như ùa vào buồng lái
+
+Không có kính, ừ thì có bụi,
+Bụi phun tóc trắng như người già
+Chưa cần rửa, phì phèo châm điếu thuốc
+Nhìn nhau mặt lấm cười ha ha.
+
+Không có kính, ừ thì ướt áo
+Mưa tuôn, mưa xối như ngoài trời
+Chưa cần thay, lái trăm cây số nữa
+Mưa ngừng, gió lùa khô mau thôi.
+
+Những chiếc xe từ trong bom rơi
+Ðã về đây họp thành tiểu đội
+Gặp bè bạn suốt dọc đường đi tới
+Bắt tay qua cửa kính vỡ rồi.
+
+Bếp Hoàng Cầm ta dựng giữa trời
+Chung bát đũa nghĩa là gia đình đấy
+Võng mắc chông chênh đường xe chạy
+Lại đi, lại đi trời xanh thêm.
+
+Không có kính, rồi xe không có đèn,
+Không có mui xe, thùng xe có xước,
+Xe vẫn chạy vì miền Nam phía trước:
+Chỉ cần trong xe có một trái tim.
+
+
+1969</value>
+  </data>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Nội dung: bài thơ khắc họa một hình ảnh độc đáo. Đó là những chiếc xe không kính. Qua đó, tác giả khắc họa nổi bật 
+hình ảnh những người lính lái xe ở Trường Sơn trong thời kì chống Mỹ , với tư thế hiên ngang, tinh thần lạc quan, dũng cảm,
+bất chấp khó khăn nguy hiểm và ý chí , chiến đấu giải phóng miền Nam
+
+Nghệ thuật: Bài thơ kết hợp thể thơ bảy chữ và tám chữ, có chất liệu hiện thực sinh động của cuộc sống ở chiến trường, sáng tạo 
+được những hình ảnh độc đáo, ngôn ngữ và giọng điệu giàu tính khẩu ngữ, tự nhiên, khỏe khoắn. Bài thơ còn sử dụng các biện 
+pháp tu từ như điệp ngữ, hoán dụ giúp các hình ảnh thơ giàu tính liên tưởng, hấp dẫn.
+
+
+</value>
+  </data>
+</root>

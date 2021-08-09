@@ -1,0 +1,99 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="Label2.Text" xml:space="preserve">
+    <value>Mọc giữa dòng sông xanh
+Một bông hoa tím biếc
+Ơi con chim chiền chiện
+Hót chi mà vang trời
+Từng giọt long lanh rơi
+Tôi đưa tay tôi hứng.
+
+Mùa xuân người cầm súng
+Lộc giắt đầy quanh lưng
+Mùa xuân người ra đồng
+Lộc trải dài nương mạ
+Tất cả như hối hả
+Tất cả như xôn xao
+
+Ðất nước bốn nghìn năm
+Vất vả và gian lao
+Ðất nước như vì sao
+Cứ đi lên phía trước.
+
+Ta làm con chim hót
+Ta làm một cành hoa
+Ta nhập vào hoà ca
+Một nốt trầm xao xuyến.
+
+Một mùa xuân nho nhỏ
+Lặng lẽ dâng cho đời
+Dù là tuổi hai mươi
+Dù là khi tóc bạc.
+
+</value>
+  </data>
+  <data name="Label4.Text" xml:space="preserve">
+    <value>Bài thơ là tiếng lòng tha thiết yêu mến và gắn bó với đất nước, với cuộc đời, thể hiện ước 
+nguyện chân thành của nhà thơ được cống hiến cho đất nước, góp một “mùa xuân nho nhỏ
+” của mình vào mùa xuân lớn của dân tộc.
+
+</value>
+  </data>
+</root>

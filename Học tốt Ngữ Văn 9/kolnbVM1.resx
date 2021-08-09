@@ -1,0 +1,91 @@
+﻿<root>
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="RichTextBox1.Text" xml:space="preserve">
+    <value>Kiều ở lầu Ngưng Bích là một bức tranh đa dạng, phong phú về ngoại cảnh và tâm cảnh. Khắc hoạ nỗi đau buồn, sợ hãi mà Kiều đang nếm trải, dự báo sóng gió bão bùng mà nàng phải trải qua trong mười lăm năm lưu lạc thanh lâu hai lượt, thanh y hai lần.
+
+Từ một thiếu nữ tài sắc sống trong cảnh êm đềm trướng rủ màn che, Kiều đã trở thành món hàng trong màn mua bán của Mã Giám Sinh và giờ đây nàng đang sống trong cô đơn, nhớ thương đau buồn, lo âu nơi lầu Ngưng Bích. Hai mươi hai câu thơ trong đoạn trích Kiều ở lầu Ngưng Bích đã thể hiện rõ bức tranh tâm cảnh của Kiều. Sống nơi lầu Ngưng Bích là Kiều sống trong sự cô đơn tuyệt đối:
+
+Trước lầu Ngưng Bích khóa xuân,
+Vẻ non xa tấm trăng gần ở chung.
+Bốn bề bát ngát xa trông,
+Cát vàng cồn nọ bụi hồng dặm kia.
+Bẽ bàng mây sớm đèn khuya,
+Nửa tình nửa cảnh như chia tấm lòng.
+
+Kiều bị giam lỏng ở lầu Ngưng Bích, hai chữ khóa xuân đã nói lên điều đó. Khoá xuân ở đây không phải nói tới những cô gái còn cấm cung mà là sự mỉa mai, chua xót cho thân phận nàng Kiều. Nàng trơ trọi giữa thời gian mênh mông, không gian hoang vắng trong hoàn cảnh tha hương, cô đơn, tương lai mờ mịt. Trong khi những dư vị đau khổ vừa trải qua vẫn đang tấy đỏ, giờ Kiều lại bị đẩy vào chốn lầu xanh ô nhục.
+
+Trong cảnh ngộ như thế, Kiều chỉ còn biết lắng nghe tiếng nói từ sâu thẳm lòng mình. Tâm trạng Kiều trải ra theo cái nhìn cảnh vật. Nhìn lên trên là vầng trăng đơn côi, nhìn xuống mặt đất thì bên là cồn cát nhấp nhô gợn sóng, bên là bụi hồng cuốn xa hàng vạn dặm. Lầu Ngưng Bích là một chấm nhỏ giữa thiên nhiên trơ trọi, giữa mênh mang trời nước. Cái lầu cao ngất nghểu, trơ trọi ấy giam hãm một thân phận trơ trọi. Không một bóng người, không một sự chia sẻ, chỉ có một thiên nhiên câm lặng làm bạn.
+
+
+ 
+Kiều chỉ có một mình để tâm sự, để đối diện với chính mình. Trong cái không gian rợn ngợp và thời gian dài dặc, quẩn quanh mây sớm đèn khuya gợi vòng tuần hoàn khép kín của thời gian, tất cả như giam hãm con người, như khắc sâu thêm nỗi đơn côi khiến Kiều càng thấy bẽ bàng chán nản, buồn tủi.
+
+Sớm và khuya, ngày và đêm Kiều thui thủi một mình nơi đất khách quê người, nàng chỉ còn biết làm bạn với mây và đèn. Trong nỗi cô đơn tuyệt đối ấy, lòng Kiều dồn tới lớp lớp những nỗi niềm chua xót. Buồn vì cảnh hoang vu, rợn ngợp và buồn vì cái tình riêng khiến lòng nàng như bị chia xé: Nửa tình nửa cảnh như chia tấm lòng.
+
+Nguyễn Du từ cảnh vật trước lầu Ngưng Bích đã nói lên những nỗi lòng của Thuý Kiều. Đó là sự cô đơn, vô vọng đến tuyệt đối và đó là những dư vị của bao tháng ngày gian khổ đang sưng tấy. Tạm quên đi những chia xé trong lòng, Kiều nhớ về những người thân:
+
+Tưởng người dưới nguyệt chén đồng,
+Tin sương luống những rày trông mai chờ.
+
+Trái với những quy định phong kiến, Kiều nhớ về người yêu rồi mới nhớ cha mẹ. Trong lúc này, nỗi đau dứt tình người yêu như còn rớm máu, kỉ niệm như còn mới đây thôi. Hơn thế nữa Kiều lại bị Mã Giám Sinh làm nhục, sau đó bị đưa vào chốn lầu xanh nên nỗi đau lớn nhất của nàng lúc này là: Tấm son gột rửa bao giờ cho phai.
+
+Chính bởi thế mà người đầu tiên nàng nghĩ tới là chàng Kim. Với cha mẹ, nàng đã hi sinh bán mình nên phần nào đã đáp đền được ơn sinh thành. Còn với Kim Trọng, nàng là kẻ phụ tình, lỗi hẹn. Trong tâm cảnh như thế, để Kiều nhớ chàng Kim trước là sự tinh tế của ngòi bút Nguyễn Du. Nhớ tới người yêu là nhớ tới đêm trăng thề nguyền. Vừa mới hôm nào, nàng cùng chàng uống chén rượu thề nguyền son sắc, một lòng cùng nhau một đời mà nay mối tình duyên đã chia lìa đột ngột.</value>
+  </data>
+</root>
