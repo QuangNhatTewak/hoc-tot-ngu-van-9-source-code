@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Học tốt Ngữ Văn 9/1.0.0": {
+        "runtime": {
+          "Học tốt Ngữ Văn 9.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Học tốt Ngữ Văn 9/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
