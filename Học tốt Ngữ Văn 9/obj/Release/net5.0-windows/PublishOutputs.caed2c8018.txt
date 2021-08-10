@@ -1,0 +1,5 @@
+C:\Users\Quang\Documents\ver1.2b\Học tốt Ngữ Văn 9.exe
+C:\Users\Quang\Documents\ver1.2b\Học tốt Ngữ Văn 9.dll
+C:\Users\Quang\Documents\ver1.2b\Học tốt Ngữ Văn 9.deps.json
+C:\Users\Quang\Documents\ver1.2b\Học tốt Ngữ Văn 9.runtimeconfig.json
+C:\Users\Quang\Documents\ver1.2b\Học tốt Ngữ Văn 9.pdb
